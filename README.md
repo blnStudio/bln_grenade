@@ -18,7 +18,7 @@ A dynamic throwable items script for RedM, featuring customizable explosive devi
 **✅ VORP ✅ REDEMRP(old/2023) ✅ RSG ✅QBR & QR**
 
 ## Preview
-[Video Preview](https://youtu.be/6ZGfaL8W5Ng)
+[Video Preview](https://youtu.be/OqH8r0MoXu4)
 
 ## Installation
 1. Download the script
